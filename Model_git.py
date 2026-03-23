@@ -181,9 +181,9 @@ classes = speech_model.classes_
 # =========================
 
 weights = {
-    "EEG": 0.8,
-    "Speech": 0.15,
-    "MRI": 0.05
+    "EEG": 0.3,
+    "Speech": 0.4,
+    "MRI": 0.3
 }
 
 fusion_preds = []
